@@ -1,0 +1,5 @@
+backend/venv/
+breathe-esg-frontend/node_modules/
+__pycache__/
+db.sqlite3
+.env
