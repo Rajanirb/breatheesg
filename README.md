@@ -56,6 +56,3 @@ https://breatheesg-ht27.onrender.com
 
 ---
 
-## Author
-
-Rajani Bheemanapalli
