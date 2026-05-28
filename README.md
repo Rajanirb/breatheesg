@@ -12,8 +12,6 @@ An ESG analytics platform built using Django REST Framework and React.
 * Suspicious emission record detection
 * Full-stack deployment
 
----
-
 ## Tech Stack
 
 ### Frontend
@@ -28,8 +26,6 @@ An ESG analytics platform built using Django REST Framework and React.
 * Django REST Framework
 * SQLite
 
----
-
 ## Live Deployment
 
 Frontend:
@@ -38,14 +34,12 @@ https://breatheesg-evmqv4zrr-rajani-r-projects.vercel.app
 Backend:
 https://breatheesg-ht27.onrender.com
 
----
 
 ## GitHub Structure
 
 * backend/ → Django backend
 * breathe-esg-frontend/ → React frontend
 
----
 
 ## Documentation Files
 
@@ -53,6 +47,4 @@ https://breatheesg-ht27.onrender.com
 * DECISIONS.md
 * TRADEOFFS.md
 * SOURCES.md
-
----
 
